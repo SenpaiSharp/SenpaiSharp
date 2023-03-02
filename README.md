@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development.
 - 🌱 I’m currently learning FNA, SDL2 and always learning more about C# and .NET.
 - 💞️ I’m looking to collaborate on game engine stuff.
-- 📫 How to reach me: Discord: Seriously Dev#6220
+- 📫 How to reach me: Discord: Devi#7357
 
 <!---
 SenpaiSharp/SenpaiSharp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
